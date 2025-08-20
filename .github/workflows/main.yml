@@ -1,0 +1,8 @@
+name: Deploy Website
+
+# This specifies when the workflow should run
+on:
+  push:
+    branches:
+      - main
+# uhh lol
